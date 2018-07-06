@@ -8249,15 +8249,15 @@ h5 {
   font-family: 'Russo One', sans-serif;
   color: #22283B;
 }
-.st {
+.space-header {
   background-color: #e0e0e0;
 }
-.st .space-font {
+.space-header .space-font {
   font-family: 'Russo One', sans-serif;
   font-size: 40px;
   color: #22283B;
 }
-.st .nav a:link {
+.space-header .nav a:link {
   color: #22283B;
 }
 .container {
@@ -8276,12 +8276,12 @@ img {
   background-clip: padding-box;
   width: 95%;
 }
-.lets-walk #walk {
+#walk {
   width: 80%;
 }
 .launchz {
-  background-color: #22283B !important;
-  border: 1px #22283B solid !important;
+  background-color: #22283B;
+  border: 1px #22283B solid;
 }
 .footer {
   background-color: #e0e0e0;
